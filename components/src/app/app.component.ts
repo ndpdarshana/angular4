@@ -15,5 +15,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   buttonStatus = 'enabled';
-  angularLogo = 'https://angular.io/assets/images/logos/angular/angular.svg';
+  angularLogo = 'https://angular.io/assets/images/logos/angular/logo-nav@2x.png';
 }
