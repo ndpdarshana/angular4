@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   <button (click)="myEvent($event)">My Button</button>
   <button (mouseenter)="myEvent($event)">My Button2</button>
   `,
-  styleUrls: ['./app.component.css']
+  styleUrls: ['gi./app.component.css']
 })
 export class AppComponent {
   myEvent(event){
